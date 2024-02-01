@@ -5,4 +5,16 @@
 
 div{
   display: flex;
+  margin: auto;
+  justify-content: center;
+  width: 50%;
+  padding: 10px;
+}
+
+body{
+    justify-content: center;
+}
+
+#autoClicker{
+  visibility: hidden;
 }
